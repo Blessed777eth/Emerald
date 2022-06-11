@@ -30,3 +30,7 @@
 
 # Chapter 2 Day 1 
 ![JacobTuckerContract](https://user-images.githubusercontent.com/106129460/173203493-618ec706-eb18-4415-9195-ee86b69e29d5.png)
+
+![JACOBscript](https://user-images.githubusercontent.com/106129460/173203774-68780eaf-bddf-49b9-a959-80ff855d83a9.png)
+
+# Chapter 2 Day 2
