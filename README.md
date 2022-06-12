@@ -51,10 +51,17 @@ In the Execute phase you're calling functions and changing the data on the block
 
 ## Add two new things inside your contract:
 
-###  A variable named myNumber that has type Int (set it to 0 when the contract is deployed)
-### A function named updateMyNumber that takes in a new number named newNumber as a parameter that has type Int and updates myNumber to be newNumber
-### Add a script that reads myNumber from the contract
+A variable named myNumber that has type Int (set it to 0 when the contract is deployed)
+A function named updateMyNumber that takes in a new number named newNumber as a parameter that has type Int and updates myNumber to be newNumber
+Add a script that reads myNumber from the contract
 
-### Add a transaction that takes in a parameter named myNewNumber and passes it into the updateMyNumber function. Verify that your number changed by running the script again.
+Add a transaction that takes in a parameter named myNewNumber and passes it into the updateMyNumber function. Verify that your number changed by running the script again.
+
+![myNumber contract](https://user-images.githubusercontent.com/106129460/173244737-eef51d2d-6f1f-4e14-9857-5a6590d8e217.png)
+
+![myNumber Script](https://user-images.githubusercontent.com/106129460/173244746-072e56fb-081e-4a88-b04e-26216cba9f28.png)
+
+![myNumber Transaction](https://user-images.githubusercontent.com/106129460/173244753-006a6767-592a-49b1-95b2-4299b585d1dc.png)
+
 
 
