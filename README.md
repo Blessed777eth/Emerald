@@ -85,11 +85,12 @@ Example Fixed ![force unwrap op no error](https://user-images.githubusercontent.
 What the error message means, Why we're getting this error, and How to fix it
 ![whats the error](https://user-images.githubusercontent.com/106129460/173717270-2f1df270-4831-4a8a-a509-634dc14d7b81.png)
 
-We're receiving an error message because the type in the Script is an optional. This means our type is either a String or nil. In order to fix the issue we'd use the force unwrap operator to unwrap our String like ![fixed example](https://user-images.githubusercontent.com/106129460/173718004-0574a116-761d-4463-a7a4-a29adaccecee.png)
+We're receiving an error message because the type in the Script is an optional. This means our type is either a String or nil. In order to fix the issue we'd use the force unwrap operator to unwrap our String like ![fixed example](https://user-images.githubusercontent.com/106129460/173718562-808d0924-8dbb-4699-a3e2-37708799ef22.png)
 
 ## OR
 
-We could make our String into an optional type by adding a ? behind it as such ![! fixed example](https://user-images.githubusercontent.com/106129460/173718008-ad31ae0d-0a5f-4b8f-b8c7-c2731a945a0d.png)
+We could make our String into an optional type by adding ? behind it as such 
+![fixed example](https://user-images.githubusercontent.com/106129460/173718669-3bb1cd57-d275-4561-a0bf-965978a07d7b.png)
 
 
 
