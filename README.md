@@ -63,5 +63,30 @@ Add a transaction that takes in a parameter named myNewNumber and passes it into
 
 ![myNumber Transaction](https://user-images.githubusercontent.com/106129460/173244753-006a6767-592a-49b1-95b2-4299b585d1dc.png)
 
+# Chapter 2 Day 3 Quest
+
+## 1. In a script, initialize an array (that has length == 3) of your favourite people, represented as Strings, and log it.
+
+![favorite people](https://user-images.githubusercontent.com/106129460/173716128-1f6973ef-3113-4bc5-8324-4e9d03316318.png)
+
+## 2. In a script, initialize a dictionary that maps the Strings Facebook, Instagram, Twitter, YouTube, Reddit, and LinkedIn to a UInt64 that represents the order in which you use them from most to least. For example, YouTube --> 1, Reddit --> 2, etc. If you've never used one before, map it to 0!
+
+![dictionary string social media](https://user-images.githubusercontent.com/106129460/173716145-cae9e8bc-2b5a-4888-b820-0cb19f6b0fab.png)
+
+## 3. Explain what the force unwrap operator ! does, with an example different from the one I showed you (you can just change the type).
+
+The force unwrap operator "!" foricibly uses an action if something is nil, takes the optional away.
+Example with Error ![Force unwrap op](https://user-images.githubusercontent.com/106129460/173716857-5632eb14-d086-4bee-a1fb-25a795360755.png)
+
+Example Fixed ![force unwrap op no error](https://user-images.githubusercontent.com/106129460/173716156-d3b0dc5b-a053-42e6-9d35-0f8a690651a0.png)
+
+## 4. Using this picture below, explain...
+
+What the error message means
+Why we're getting this error
+How to fix it
+![whats the error](https://user-images.githubusercontent.com/106129460/173717270-2f1df270-4831-4a8a-a509-634dc14d7b81.png)
+
+
 
 
